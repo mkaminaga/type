@@ -5,6 +5,9 @@
 # Copyright 2019 Mamoru Kaminaga
 # Script for touch type practice.
 #
+# This software is released under the MIT License.
+# http://opensource.org/licenses/mit-license.php
+#
 # 2018/02/11
 #  * first scratch.
 #
