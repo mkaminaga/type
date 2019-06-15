@@ -1,0 +1,10 @@
+#
+# The line start with # is skipped.
+# The first word is the word to practice.
+# The words after the first word are comments.
+#
+management g by pointing finger of right hand
+expert t by index finger on right hand.
+average v,g by index finger on right hand.
+very v,g by index finger on right hand, y by middle finger on right hand.
+guide e by middle finger on left hand.
